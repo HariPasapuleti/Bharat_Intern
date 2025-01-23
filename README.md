@@ -33,7 +33,7 @@ The dataset (`USA_Housing.csv`) includes the following columns:
 - Created a residual histogram to analyze the distribution of residuals.
 
 
-#  Task 3 - Iris Flower Classification
+#  Task 2 - Iris Flower Classification
 
 ## Overview
 This project involves the classification of iris flowers into different species based on their sepal and petal characteristics. The dataset used for this analysis contains 150 samples of iris flowers, each belonging to one of three species: setosa, versicolor, or virginica.
